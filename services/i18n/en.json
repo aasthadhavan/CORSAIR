@@ -1,0 +1,17 @@
+{
+  "appName": "CORSAIR",
+  "loginSubtitle": "Sign in to report hazards",
+  "emailPlaceholder": "Email address",
+  "passwordPlaceholder": "Password",
+  "signIn": "Sign In",
+  "signingIn": "Signing in...",
+  "forgotPassword": "Forgot your password?",
+  "noAccount": "Don't have an account?",
+  "signUp": "Sign Up",
+  "missingInfoTitle": "Missing Information",
+  "missingInfoMessage": "Please fill in all fields",
+  "invalidCredentialsTitle": "Invalid Credentials",
+  "invalidCredentialsMessage": "Please check your email and password",
+  "errorTitle": "Error",
+  "errorMessage": "Something went wrong. Please try again."
+}

@@ -1,0 +1,18 @@
+{
+  "appName": "कॉर्सेयर",
+  "loginSubtitle": "खतरों की रिपोर्ट करने के लिए साइन इन करें",
+  "emailPlaceholder": "ईमेल पता",
+  "passwordPlaceholder": "पासवर्ड",
+  "signIn": "साइन इन करें",
+  "signingIn": "साइन इन हो रहा है...",
+  "forgotPassword": "क्या आप पासवर्ड भूल गए?",
+  "noAccount": "क्या आपका खाता नहीं है?",
+  "signUp": "साइन अप करें",
+  "missingInfoTitle": "जानकारी गायब है",
+  "missingInfoMessage": "कृपया सभी फ़ील्ड भरें",
+  "invalidCredentialsTitle": "अमान्य जानकारी",
+  "invalidCredentialsMessage": "कृपया अपना ईमेल और पासवर्ड जाँचें",
+  "errorTitle": "त्रुटि",
+  "errorMessage": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।"
+} 
+
